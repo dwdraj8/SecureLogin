@@ -1,0 +1,16 @@
+version: '3'
+
+services:
+  db:
+    image: postgres:latest
+    ports:
+      - "5432:5432"
+    volumes:
+      - db-data:/var/lib/postgresql/data
+    environment:
+      - POSTGRES_USER=dradmin
+      - POSTGRES_PASSWORD=admin
+      - POSTGRES_DB=drmarket
+
+volumes:
+  db-data:
