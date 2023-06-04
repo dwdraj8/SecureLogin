@@ -261,3 +261,5 @@ C:\Users\DawidRaj\RiderProjects\SecureLoginApp\obj\Debug\net7.0\refint\SecureLog
 C:\Users\DawidRaj\RiderProjects\SecureLoginApp\obj\Debug\net7.0\SecureLoginApp.pdb
 C:\Users\DawidRaj\RiderProjects\SecureLoginApp\obj\Debug\net7.0\SecureLoginApp.genruntimeconfig.cache
 C:\Users\DawidRaj\RiderProjects\SecureLoginApp\obj\Debug\net7.0\ref\SecureLoginApp.dll
+C:\Users\DawidRaj\RiderProjects\SecureLoginApp\bin\Debug\net7.0\SendGrid.dll
+C:\Users\DawidRaj\RiderProjects\SecureLoginApp\bin\Debug\net7.0\StarkbankEcdsa.dll
